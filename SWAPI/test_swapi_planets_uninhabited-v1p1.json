@@ -1,0 +1,323 @@
+[
+  {
+    "url": "https://swapi.co/api/planets/4/",
+    "name": "Hoth",
+    "rotation_period": 23,
+    "orbital_period": 549,
+    "diameter": 7200,
+    "climate": [
+      "frozen"
+    ],
+    "gravity": 1.1,
+    "terrain": [
+      "tundra",
+      " ice caves",
+      " mountain ranges"
+    ],
+    "surface_water": 100,
+    "population": " Unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/5/",
+    "name": "Dagobah",
+    "rotation_period": 23,
+    "orbital_period": 341,
+    "diameter": 8900,
+    "climate": [
+      "murky"
+    ],
+    "gravity": "N/A",
+    "terrain": [
+      "swamp",
+      " jungles"
+    ],
+    "surface_water": 8,
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/20/",
+    "name": "Stewjon",
+    "rotation_period": "unknown",
+    "orbital_period": "Unknown",
+    "diameter": 0,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": 1.0,
+    "terrain": [
+      "grass"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/28/",
+    "name": "UNKNOWN",
+    "rotation_period": 0,
+    "orbital_period": 0,
+    "diameter": 0,
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": " unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/38/",
+    "name": "Aleen Minor",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "Unknown"
+    ],
+    "gravity": "Unknown",
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "Unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/40/",
+    "name": "Troiken",
+    "rotation_period": "unknown",
+    "orbital_period": "Unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "desert",
+      " tundra",
+      " rainforests",
+      " mountains"
+    ],
+    "surface_water": "Unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/41/",
+    "name": "Tund",
+    "rotation_period": 48,
+    "orbital_period": 1770,
+    "diameter": 12190,
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "barren",
+      " ash"
+    ],
+    "surface_water": "unknown",
+    "population": "UNKNOWN"
+  },
+  {
+    "url": "https://swapi.co/api/planets/45/",
+    "name": "Iridonia",
+    "rotation_period": 29,
+    "orbital_period": 413,
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "rocky canyons",
+      " acid pools"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/46/",
+    "name": "Tholoth",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "Unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/47/",
+    "name": "Iktotch",
+    "rotation_period": 22,
+    "orbital_period": 481,
+    "diameter": "unknown",
+    "climate": [
+      "arid",
+      " rocky",
+      " windy"
+    ],
+    "gravity": 1.0,
+    "terrain": [
+      "rocky"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/48/",
+    "name": "Quermia",
+    "rotation_period": "Unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "Unknown",
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/49/",
+    "name": "Dorin",
+    "rotation_period": 22,
+    "orbital_period": 409,
+    "diameter": 13400,
+    "climate": [
+      "temperate"
+    ],
+    "gravity": 1.0,
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": " unknown ",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/51/",
+    "name": "Mirial",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "deserts"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/52/",
+    "name": "Serenno",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "Unknown",
+    "terrain": [
+      "rainforests",
+      " rivers",
+      " mountains"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/53/",
+    "name": "Concord Dawn",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "jungles",
+      " forests",
+      " deserts"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/54/",
+    "name": "Zolan",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/58/",
+    "name": "Shili",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "temperate"
+    ],
+    "gravity": 1.0,
+    "terrain": [
+      "cities",
+      " savannahs",
+      " seas",
+      " plains"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/60/",
+    "name": "Umbara",
+    "rotation_period": "unknown",
+    "orbital_period": "unknown",
+    "diameter": "unknown",
+    "climate": [
+      "unknown"
+    ],
+    "gravity": "unknown",
+    "terrain": [
+      "unknown"
+    ],
+    "surface_water": "unknown",
+    "population": "unknown"
+  },
+  {
+    "url": "https://swapi.co/api/planets/61/",
+    "name": "Jakku",
+    "rotation_period": "Unknown",
+    "orbital_period": "Unknown",
+    "diameter": " Unknown ",
+    "climate": [
+      "Unknown"
+    ],
+    "gravity": "Unknown",
+    "terrain": [
+      "deserts"
+    ],
+    "surface_water": "Unknown",
+    "population": " Unknown "
+  }
+]
